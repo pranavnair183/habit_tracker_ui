@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "820661998708",
+    "project_id": "monumental-habits",
+    "storage_bucket": "monumental-habits.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820661998708:android:5a0579f6810a4d3e9fed21",
+        "android_client_info": {
+          "package_name": "com.monumental.monumental_habits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820661998708-fl0vmoe87h1vcjeb5p64o3hjqrshj1bi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monumental.monumental_habits",
+            "certificate_hash": "bbd2715ec513b678a3d0115515773c3b36a2d167"
+          }
+        },
+        {
+          "client_id": "820661998708-rts4eqbu1srb42vpp954qiak91fqqrgk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monumental.monumental_habits",
+            "certificate_hash": "32e6484339fcf0557e2362e3231a484e04b6d22d"
+          }
+        },
+        {
+          "client_id": "820661998708-8nk4t6jdstcuerqotfn4rln7ea8918gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc2JwqvPaAU9Erx1XA-_VH6MELlMGj1L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820661998708-8nk4t6jdstcuerqotfn4rln7ea8918gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
